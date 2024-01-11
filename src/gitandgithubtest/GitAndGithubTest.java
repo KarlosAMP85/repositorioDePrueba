@@ -18,6 +18,7 @@ public class GitAndGithubTest {
         System.out.println("esta linea de código viene de local");
 // comentario del commit
         //cambiando desde la nube
+        System.out.println("esta linea de código viene de la nube")
     }
     
 }
